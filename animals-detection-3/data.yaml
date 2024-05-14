@@ -1,0 +1,40 @@
+names:
+- '0'
+- Bear
+- Buffalo
+- Deer
+- Elephant
+- Human
+- Leopard
+- Monkey
+- Raccoon
+- Tiger
+- WildBoar
+- bear
+- buffalo
+- bycicle
+- car
+- cat
+- cow
+- deer
+- dog
+- dogs-cats
+- donkey
+- gaur
+- gaurd dog
+- goat
+- hen
+- otherentities
+- person
+- rat
+- wolf
+nc: 29
+roboflow:
+  license: CC BY 4.0
+  project: animals-detection-bsbbi
+  url: https://universe.roboflow.com/machine-train-ur3hn/animals-detection-bsbbi/dataset/3
+  version: 3
+  workspace: machine-train-ur3hn
+test: ../test/images
+train: animals-detection-3/train/images
+val: animals-detection-3/valid/images
